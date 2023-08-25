@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/iNeuron/NewEndtoEndMLProjectMLFlow/mlruns/0/f6d3448a4cad4d18b114658c7a3a4a27/artifacts
+end_time: 1692990910405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6d3448a4cad4d18b114658c7a3a4a27
+run_name: burly-dolphin-714
+run_uuid: f6d3448a4cad4d18b114658c7a3a4a27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692990906197
+status: 3
+tags: []
+user_id: Rafeek Alas
