@@ -8,6 +8,7 @@ steps to implement this projects from scratch
 4. Update requirements.txt 
 5. update setup file  #2nd commit
 6. data_ingestion commit #3rd commit
+7. Data_Validation commit #4th commit
 
 repeat the following steps for all the modules/stages
 1. Update logging info in src/projectname/_init_.py 
