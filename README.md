@@ -7,7 +7,7 @@ steps to implement this projects from scratch
 3. update template.py to create folder structure #1st commit
 4. Update requirements.txt 
 5. update setup file  #2nd commit
-6.
+6. data_ingestion commit #3rd commit
 
 repeat the following steps for all the modules/stages
 1. Update logging info in src/projectname/_init_.py 
