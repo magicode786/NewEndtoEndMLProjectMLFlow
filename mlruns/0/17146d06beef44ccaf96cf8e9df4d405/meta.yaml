@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/iNeuron/NewEndtoEndMLProjectMLFlow/mlruns/0/17146d06beef44ccaf96cf8e9df4d405/artifacts
+end_time: 1693050020702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17146d06beef44ccaf96cf8e9df4d405
+run_name: bemused-stag-172
+run_uuid: 17146d06beef44ccaf96cf8e9df4d405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693050016575
+status: 3
+tags: []
+user_id: Rafeek Alas
